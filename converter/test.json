@@ -1,0 +1,19 @@
+{
+    "class": {
+        "z1": {
+            "firstname": "sean",
+            "lastname": "brady",
+            "age": 21
+        },
+        "z2": {
+            "firstname": "noah",
+            "lastname": "woods",
+            "age": 22
+        },
+        "z3": {
+            "firstname": "scott",
+            "lastname": "peters",
+            "age": 23
+        }
+    }
+}
